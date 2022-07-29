@@ -18,3 +18,11 @@
 .store-item-image {
   object-fit: cover;
 }
+
+.quantity-control-container {
+  gap: 0.5rem;
+}
+
+.quantity-buttons-container {
+  gap: 0.5rem;
+}
