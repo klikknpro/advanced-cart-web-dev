@@ -26,3 +26,17 @@
 .quantity-buttons-container {
   gap: 0.5rem;
 }
+
+.cart-image {
+  width: 125px;
+  height: 75px;
+  object-fit: cover;
+}
+
+.cart-item-quantity {
+  font-size: 0.65rem;
+}
+
+.cart-item-price {
+  font-size: 0.75rem;
+}
